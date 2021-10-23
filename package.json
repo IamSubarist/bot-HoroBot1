@@ -1,15 +1,30 @@
 {
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "^0.0.1-security",
+    "git": "^0.1.5",
+    "github": "^14.0.0",
+    "moment": "^2.29.1",
+    "node-vk-bot-api": "^3.5.0",
+    "path": "^0.12.7"
+  },
   "name": "gorobot",
   "version": "1.0.0",
-  "description": "",
+  "description": "bot",
   "main": "main.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Roman Petrenko",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamSubarist/bot-horoscope.git"
+  },
+  "author": "Roman Petrenko (optimistroma927@gmail.com)",
   "license": "ISC",
-  "dependencies": {
-    "git": "^0.1.5",
-    "github": "^14.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/IamSubarist/bot-horoscope/issues"
+  },
+  "homepage": "https://github.com/IamSubarist/bot-horoscope#readme"
 }
