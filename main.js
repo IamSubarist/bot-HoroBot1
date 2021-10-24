@@ -24,7 +24,7 @@ console.log('\nThe bot has been successfully launched and ready to work.\n')
 
 const daily = require('./daily.js')
 const tomorrow = require('./tomorrow.js')
-// const weekly = require('./weekly.js')
+const weekly = require('./weekly.js')
 // const monthly = require('./monthly.js')
 // const yearly = require('./yearly.js')
 // const characteristic = require('./characteristic.js')
