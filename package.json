@@ -10,7 +10,7 @@
     "path": "^0.12.7"
   },
   "name": "gorobot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "bot",
   "main": "main.js",
   "devDependencies": {},
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IamSubarist/bot-BotGoroBot-bot.git"
+    "url": "git+https://github.com/IamSubarist/bot-GoroBot1.git"
   },
   "author": "Roman Petrenko (optimistroma927@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IamSubarist/bot-BotGoroBot-bot/issues"
+    "url": "https://github.com/IamSubarist/bot-GoroBot1/issues"
   },
-  "homepage": "https://github.com/IamSubarist/bot-BotGoroBot-bot#readme"
+  "homepage": "https://github.com/IamSubarist/bot-GoroBot1#readme"
 }
