@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IamSubarist/bot-HoroBot.git"
+    "url": "git+https://github.com/IamSubarist/bot-HoroBot1.git"
   },
   "author": "Roman Petrenko (optimistroma927@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IamSubarist/bot-HoroBot/issues"
+    "url": "https://github.com/IamSubarist/bot-HoroBot1/issues"
   },
-  "homepage": "https://github.com/IamSubarist/bot-HoroBot#readme"
+  "homepage": "https://github.com/IamSubarist/bot-HoroBot1#readme"
 }
